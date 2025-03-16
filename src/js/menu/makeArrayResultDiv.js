@@ -5,7 +5,7 @@ function makeArrayResultDiv()
     let theArrayResultDiv = ce("div");
     theArrayResultDiv.contentEditable = 'true';
     theArrayResultDiv.style.position = "absolute";
-    theArrayResultDiv.style.left = 450 + "px";
+    theArrayResultDiv.style.left = 400 + "px";
     theArrayResultDiv.style.top = 0 + "px";
     theArrayResultDiv.style.width = 350 + "px";
     theArrayResultDiv.style.height = 150 + "px";

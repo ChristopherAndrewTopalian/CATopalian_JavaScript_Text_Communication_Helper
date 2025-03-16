@@ -2,6 +2,8 @@
 
 function textGetSelected()
 {
+    clickSound();
+
     let theSelection = document.getSelection();
 
     return theSelection;

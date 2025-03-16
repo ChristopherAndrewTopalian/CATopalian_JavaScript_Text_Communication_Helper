@@ -14,13 +14,14 @@ function whenLoaded()
     // makeHighlightedWordButton();
     makeResultDiv();
     makeArrayResultDiv();
+    makeTitleOfApp()
 }
 
 /*
     menu("nouns001", 20, 100);
     menu("verbs001", 180, 100);
     menu("prepositions001", 320, 100);
-    */
+*/
 
 //----//
 

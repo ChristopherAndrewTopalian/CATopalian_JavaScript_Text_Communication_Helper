@@ -4,9 +4,8 @@ function makeResultDiv()
 {
     let theResultDiv = ce("div");
     theResultDiv.style.position = "absolute";
-    theResultDiv.style.left = 200 + "px";
+    theResultDiv.style.left = 182 + "px";
     theResultDiv.style.top = 0 + "px";
-
     theResultDiv.className = "currentWord";
     theResultDiv.style.width = 150 + 'px';
     theResultDiv.style.height = 9 + 'px';
