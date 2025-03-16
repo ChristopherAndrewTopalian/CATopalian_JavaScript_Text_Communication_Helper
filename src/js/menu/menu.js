@@ -5,7 +5,6 @@ function menu(whichArray, xPos, yPos)
     whichArray = eval(whichArray);
 
     let mainDiv = ce("div");
-
     mainDiv.style.position = "absolute";
     mainDiv.style.left = xPos + "px";
     mainDiv.style.top = yPos + "px";

@@ -4,8 +4,6 @@ function menuMakeAll(whichArray)
 {
     let xPos = 20;
 
-    // whichArray = eval(whichArray);
-
     for (let x = 0; x < whichArray.length; x++)
     {
         menu(whichArray[x], xPos, 55);

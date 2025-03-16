@@ -38,9 +38,7 @@ function makeArrayResultDiv()
             }
         }
 
-
         //showResult('theResult');
-
 
         //arrayOfSelectedWords[arrayOfSelectedWords.length-1] += theSelection;
         // textGetSelectedAddWordToArray();
