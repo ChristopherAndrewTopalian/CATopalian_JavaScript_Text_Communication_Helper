@@ -3,6 +3,8 @@ A JavaScript app that helps people to form sentences by clicking on words in a l
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)
 
+Video: https://youtu.be/AO7Tt8xDmSA
+
 ---
 
 ### How to Download this App
