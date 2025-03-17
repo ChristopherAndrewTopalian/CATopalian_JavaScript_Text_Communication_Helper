@@ -5,6 +5,8 @@ A JavaScript app that helps people to form sentences by clicking on words in a l
 
 Video: https://youtu.be/AO7Tt8xDmSA
 
+Github Pages: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Communication_Helper/CATopalian_JavaScript_Text_Communication_Helper.html
+
 ---
 
 ### How to Download this App
