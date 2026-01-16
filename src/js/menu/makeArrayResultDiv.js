@@ -6,8 +6,8 @@ function makeArrayResultDiv()
     theArrayResultDiv.contentEditable = 'true';
     theArrayResultDiv.style.position = "absolute";
     theArrayResultDiv.style.left = 400 + "px";
-    theArrayResultDiv.style.top = 0 + "px";
-    theArrayResultDiv.style.width = 350 + "px";
+    theArrayResultDiv.style.top = 25 + "px";
+    theArrayResultDiv.style.width = 290 + "px";
     theArrayResultDiv.style.height = 150 + "px";
     theArrayResultDiv.className = "theResult";
     theArrayResultDiv.id = "theArrayResult";
@@ -49,7 +49,7 @@ function makeArrayResultDiv()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting

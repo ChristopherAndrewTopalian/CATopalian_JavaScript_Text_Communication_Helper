@@ -23,7 +23,7 @@ function menu(whichArray, xPos, yPos)
     for (let x = 0; x < whichArray.length; x++)
     {
         let theButton = ce("span");
-        theButton.innerHTML = whichArray[x];
+        theButton.textContent = whichArray[x];
         theButton.style.display = "flex";
         theButton.style.flexDirection = "row";
         mainDiv.append(theButton);
@@ -33,7 +33,7 @@ function menu(whichArray, xPos, yPos)
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
